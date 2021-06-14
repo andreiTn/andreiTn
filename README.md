@@ -4,13 +4,14 @@
 
 ### Languages and Tools:
 
+<div style="display: flex; justify-content: between; align-items: center;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="40px" alt="HTML 5" style="margin: 15px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="40px" alt="CSS 3" style="margin: 15px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript / ES"  style="margin: 15px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40px" alt="Typescript" style="margin: 15px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40px" alt="Sass" style="margin: 15px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40px" alt="Vue JS" style="margin: 15px;"/>
-
+</div>
 <hr />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40px" alt="Photoshop" style="margin: 15px;"/>

@@ -4,7 +4,7 @@
 
 ### Languages and Tools:
 
-<div style="display: flex; justify-content: between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="40px" alt="HTML 5" style="margin: 15px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="40px" alt="CSS 3" style="margin: 15px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript / ES"  style="margin: 15px;"/>
@@ -14,25 +14,29 @@
 </div>
 <hr />
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40px" alt="Photoshop" style="margin: 15px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" width="40px" alt="Adobe XD" style="margin: 15px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="40px" alt="Illustrator" style="margin: 15px;"/>
-
+</div>
 <hr />
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="40px" alt="Node JS" style="margin: 15px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40px" alt="Go" style="margin: 15px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40px" alt="Express" style="margin: 15px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="40px" alt="Symfony" style="margin: 15px;"/>
-
+</div>
 <hr />
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40px" alt="Docker" style="margin: 15px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="40px" alt="Yarn" style="margin: 15px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40px" alt="Npm" style="margin: 15px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40px" alt="Git" style="margin: 15px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40px" alt="Nginx" style="margin: 15px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" width="40px" alt="Webstorm" style="margin: 15px;"/>
+</div>
 
 ### GitHub Analytics
 

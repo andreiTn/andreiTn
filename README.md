@@ -1,49 +1,53 @@
-# `$ Hello world`
+# Hi there, I'm Andrei! 👋
 
-> Keep calm, I'm a front-end developer 👾
+### Senior Full-Stack Engineer (.NET & Vue.js)
 
-### Languages and Tools:
+I am a proactive Full-Stack Engineer specialising in **.NET** and **Vue.js**, with hands-on experience scaling products in highly regulated markets. I built a strong foundation as a self-taught developer and later completed a BSc in Computer Science with top honours while working full-time as an engineer.
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="40px" alt="HTML 5" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="40px" alt="CSS 3" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript / ES"  style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40px" alt="Typescript" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40px" alt="Sass" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40px" alt="Vue JS" style="margin: 15px;"/>
+### Languages and Tools
+
+**Frontend & UI**
+<div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40px" alt="Vue JS" title="Vue.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="40px" alt="NuxtJS" title="Nuxt.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40px" alt="Typescript" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40px" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40px" alt="Sass" title="Sass"/>
 </div>
-<hr />
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40px" alt="Photoshop" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" width="40px" alt="Adobe XD" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="40px" alt="Illustrator" style="margin: 15px;"/>
+**Backend & Data**
+<div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40px" alt="C#" title="C#"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40px" alt=".NET" title=".NET Core"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40px" alt="Node JS" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40px" alt="Go" title="Go"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40px" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40px" alt="Redis" title="Redis"/>
 </div>
-<hr />
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="40px" alt="Node JS" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40px" alt="Go" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40px" alt="Express" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="40px" alt="Symfony" style="margin: 15px;"/>
+**Cloud, DevOps & Testing**
+<div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40px" alt="Docker" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40px" alt="Azure" title="Azure"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40px" alt="Jest" title="Jest"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40px" alt="Git" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40px" alt="Nginx" title="Nginx"/>
 </div>
-<hr />
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40px" alt="Docker" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="40px" alt="Yarn" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40px" alt="Npm" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40px" alt="Git" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40px" alt="Nginx" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" width="40px" alt="Webstorm" style="margin: 15px;"/>
-</div>
+---
 
 ### GitHub Analytics
+> **Note:** If my contribution graph looks a little quiet, it's because the vast majority of my day-to-day engineering happens on private platforms like Azure DevOps
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
+  <a href="https://github.com/andreiTn">
+    <img height="165rem" src="https://github-readme-streak-stats.herokuapp.com?user=andreiTn&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  </a>
+  <a href="https://github.com/andreiTn">
+    <img height="165rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreiTn&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  </a>
+</div>
+<br/>
 
-<a href="https://github.com/andreiTn">
-  <img height="150rem" src="http://github-readme-streak-stats.herokuapp.com?user=andreiTn"/>
-</a>
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrei-tincu/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TincuVictor)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrei-tincu)

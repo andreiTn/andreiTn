@@ -45,7 +45,7 @@ I am a proactive Full-Stack Engineer specialising in **.NET** and **Vue.js**, wi
     <img height="165rem" src="https://github-readme-streak-stats.herokuapp.com?user=andreiTn&theme=dark&hide_border=true" alt="GitHub Streak"/>
   </a>
   <a href="https://github.com/andreiTn">
-    <img height="165rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreiTn&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+    <img height="165rem" src="https://github-stats-extended.vercel.app/api/top-langs/?username=andreiTn&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
 <br/>

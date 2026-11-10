@@ -64,16 +64,4 @@ Framework-agnostic by default: comfortable building UIs with any library and qui
 > [!NOTE]
 > 🔒 If my contribution graph looks a little quiet, it's because most of my day-to-day engineering happens on private platforms like Azure DevOps.
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
-  <a href="https://github.com/andreiTn">
-    <img height="165rem" src="https://github-readme-streak-stats.herokuapp.com?user=andreiTn&theme=dark&hide_border=true" alt="GitHub Streak"/>
-  </a>
-
-  <a href="https://github.com/andreiTn">
-    <img height="165rem" src="https://github-stats-extended.vercel.app/api/top-langs/?username=andreiTn&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-  </a>
-</div>
-
-<br/>
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/andrei-tincu)
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;"><img height="165rem" src="https://github-readme-streak-stats.herokuapp.com?user=andreiTn&theme=dark&hide_border=true" alt="GitHub Streak"/><img height="165rem" src="https://github-stats-extended.vercel.app/api/top-langs/?username=andreiTn&layout=compact&theme=dark&hide_border=true" alt="Top Languages" /><a href="https://www.linkedin.com/in/andrei-tincu" title="My LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></div>
